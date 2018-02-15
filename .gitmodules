@@ -1,3 +1,7 @@
+[submodule "rack"]
+	path = rack
+	url = https://github.com/efgehrke/tcc1.git
+
 [submodule "tcc1"]
-	path = tcc11
+	path = tcc1
 	url = https://github.com/efgehrke/tcc1.git
