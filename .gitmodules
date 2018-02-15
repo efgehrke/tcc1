@@ -4,3 +4,6 @@
 [submodule "tcc"]
 	path = tcc
 	url = https://github.com/efgehrke/tcc1
+[submodule "submodule"]
+	path = submodule
+	url = https://github.com/efgehrke/tcc1.git
